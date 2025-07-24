@@ -56,10 +56,3 @@ A Python-based smart attendance system that uses QR code scanning via webcam to 
 
 **dhathripenmatsa**  
 [GitHub Profile](https://github.com/dhathripenmatsa)
-
----
-
-## 📜 License
-
-This project is open-source and available for educational use.
-
